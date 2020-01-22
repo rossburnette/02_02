@@ -1,0 +1,1 @@
+[![Board Status](https://simplecodewriter.visualstudio.com/6a1f5346-c4cc-4d02-a975-7cc8c73739de/839d9126-8a0b-402f-a43a-1cbf8beb9207/_apis/work/boardbadge/b74f3071-164d-4ea7-892e-62417c3bc547)](https://simplecodewriter.visualstudio.com/6a1f5346-c4cc-4d02-a975-7cc8c73739de/_boards/board/t/839d9126-8a0b-402f-a43a-1cbf8beb9207/Microsoft.RequirementCategory)
